@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Logan20063
-- 👀 I’m interested in coding(duh)
-- 🌱 I’m currently learning javascript
-//- 💞️ I’m looking to collaborate on
-- 📫 How to reach me you don't
 
 <!---
 Logan20063/Logan20063 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
